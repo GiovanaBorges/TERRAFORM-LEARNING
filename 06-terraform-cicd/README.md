@@ -83,9 +83,7 @@ O CI/CD não cria infraestrutura nova.
 Ele apenas:
 
 Executa terragrunt nas pastas corretas
-
 Em máquinas limpas
-
 Com regras de segurança
 
 ## Pipelines     
